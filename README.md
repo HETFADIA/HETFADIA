@@ -33,4 +33,4 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/github/followers/HETFADIA?label=follow&style=social" />
  </a> 
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=HETFADIA&label=Views&color=blue&style=plastic" alt="HETFADIA" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=HETFADIA&label=Views&color=blue&style=plastic" alt="HETFADIA" /> </p> -->
