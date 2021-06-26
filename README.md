@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Het.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=HETFADIA&label=Views&color=blue&style=plastic" alt="HETFADIA" /> </p>
+
 <!--
 **HETFADIA/HETFADIA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -33,3 +33,4 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/github/followers/HETFADIA?label=follow&style=social" />
  </a> 
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=HETFADIA&label=Views&color=blue&style=plastic" alt="HETFADIA" /> </p>
