@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <hr>
 
 <p align="center">
- <a href="https://drive.google.com/file/d/1-iDu5hFH7Z9-MyLf_Ua7FdaIQsGhn5ug/view?usp=sharing">
+ <a href="https://drive.google.com/drive/folders/1bPe8B9o9lpf18B_IpROaOsGnaiFyvqDO?usp=sharing">
  <img src="https://img.shields.io/badge/-Resume-silver?style=flat-square&logo=appveyor" />
  </a>
  <a href="mailto:hetfadia@gmail.com">
